@@ -18,7 +18,7 @@ Bu değişiklik, parametrelerin doğru bir şekilde JSON formatına dönüştür
 
 **Çözüm:** Aşağıdaki görüntüde gösterilen extension'lar eklenerek bu sorun giderildi:
 
-![Map ve Object Extension'ları](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image2.png)
+![Map ve Object Extension'ları](images/image%20(2).png)
 
 Bu extension'lar sayesinde, Map ve Object tipleri için `listFromJson` metodu kullanılabilir hale geldi, böylece bu tipleri kullanan metodlar artık hatasız çalışabiliyor.
 
@@ -28,7 +28,7 @@ Bu extension'lar sayesinde, Map ve Object tipleri için `listFromJson` metodu ku
 
 **Değişiklik:** Any tipi için TypeDef yapıldı.
 
-![Any TypeDef](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image3.png)
+![Any TypeDef](images/image%20(3).png)
 
 Bu değişiklik, `Any` tipinin `dynamic` olarak tanımlanmasını sağladı. Bu, kodun daha esnek ve genel amaçlı kullanımını mümkün kılıyor.
 
@@ -40,7 +40,7 @@ Bu değişiklik, `Any` tipinin `dynamic` olarak tanımlanmasını sağladı. Bu,
 
 **Çözüm:** Aşağıdaki görüntüde gösterilen değişiklik ile bu sorun giderildi:
 
-![Constructor Syntax Düzeltmesi](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image4.png)
+![Constructor Syntax Düzeltmesi](images/image%20(4).png)
 
 Bu değişiklik, constructor'daki süslü parantezlerin doğru kullanımını sağlayarak syntax hatasını ortadan kaldırdı. Bu sayede Dart sınıflarının doğru bir şekilde oluşturulması sağlandı.
 
@@ -52,7 +52,7 @@ Bu değişiklik, constructor'daki süslü parantezlerin doğru kullanımını sa
 
 **Çözüm:** Aşağıdaki görüntüde gösterilen değişiklikler ile bu sorunlar giderildi:
 
-![Native Class Syntax Düzeltmesi](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image1.png)
+![Native Class Syntax Düzeltmesi](images/image%20(5).png)
 
 Bu değişiklikler, native sınıfların doğru bir şekilde oluşturulmasını sağlayarak syntax hatalarını ortadan kaldırdı.
 
@@ -64,7 +64,7 @@ Bu değişiklikler, native sınıfların doğru bir şekilde oluşturulmasını 
 
 **Çözüm:** Aşağıdaki görüntüde gösterilen değişiklik ile null olan parametreler artık gönderilmiyor:
 
-![Null Parametre Çözümü](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image2.png)
+![Null Parametre Çözümü](images/image%20(6).png)
 
 Bu değişiklik, null değerlerin gereksiz yere gönderilmesini engelleyerek daha temiz ve etkili bir request yapısı sağladı.
 
@@ -76,7 +76,7 @@ Bu değişiklik, null değerlerin gereksiz yere gönderilmesini engelleyerek dah
 
 **Çözüm:** Extension kullanımı çözümüne gidildi ve template aşağıdaki gibi düzenlendi:
 
-![Complex Type listFromJson Çözümü](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image3.png)
+![Complex Type listFromJson Çözümü](images/image%20(7).png)
 
 Bu değişiklik, complex type'lar için listFromJson metodunun doğru bir şekilde oluşturulmasını sağladı.
 
@@ -86,7 +86,7 @@ Bu değişiklik, complex type'lar için listFromJson metodunun doğru bir şekil
 
 **Değişiklik:** listFromJson extension'ı sayfanın en alt kısmında tanımlandı.
 
-![listFromJson Extension Tanımı](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image4.png)
+![listFromJson Extension Tanımı](images/image%20(8).png)
 
 Bu ekleme, listFromJson metodunun tüm gerekli sınıflar için kullanılabilir olmasını sağladı.
 
