@@ -8,7 +8,7 @@
 
 **Çözüm:** Aşağıdaki görüntüde gösterilen kod değişikliği ile bu sorun giderildi:
 
-![Parametre Ekleme Düzeltmesi](https://raw.githubusercontent.com/Your-Username/Your-Repo/main/images/image1.png)
+![Parametre Ekleme Düzeltmesi](images/image%20(1).png)
 
 Bu değişiklik, parametrelerin doğru bir şekilde JSON formatına dönüştürülmesini sağlayarak, `filter`, `include` ve `where` gibi işlemlerin düzgün çalışmasına olanak tanıdı.
 
